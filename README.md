@@ -31,15 +31,25 @@ This project analyzes Zomato's restaurant and customer data to uncover insights 
 6. Which type of restaurant received more offline orders, so that Zomato can provide those
 customers with some good offers?
 
-![](https://github.com/RajatJothe/Zomato_Analysis_Python_Project_5/blob/main/Image/Type_of_Restaurant.png)
-![](https://github.com/RajatJothe/Zomato_Analysis_Python_Project_5/blob/main/Image/Votes_by_Type_of_Restaurant.png)
-![](https://github.com/RajatJothe/Zomato_Analysis_Python_Project_5/blob/main/Image/Distribution_of_Ratings.png)
-![](https://github.com/RajatJothe/Zomato_Analysis_Python_Project_5/blob/main/Image/couple_data.png)
-![](https://github.com/RajatJothe/Zomato_Analysis_Python_Project_5/blob/main/Image/boxplot_online_order.png)
-![](https://github.com/RajatJothe/Zomato_Analysis_Python_Project_5/blob/main/Image/heatmap_online_order.png)
+<h3>📊 Visualizations</h3>
 
+<!-- Row 1 -->
+<p float="left">
+  <img src="https://github.com/RajatJothe/Zomato_Analysis_Python_Project_5/blob/main/Image/Type_of_Restaurant.png" width="45%" />
+  <img src="https://github.com/RajatJothe/Zomato_Analysis_Python_Project_5/blob/main/Image/Votes_by_Type_of_Restaurant.png" width="45%" />
+</p>
 
+<!-- Row 2 -->
+<p float="left">
+  <img src="https://github.com/RajatJothe/Zomato_Analysis_Python_Project_5/blob/main/Image/Distribution_of_Ratings.png" width="45%" />
+  <img src="https://github.com/RajatJothe/Zomato_Analysis_Python_Project_5/blob/main/Image/couple_data.png" width="45%" />
+</p>
 
+<!-- Row 3 -->
+<p float="left">
+  <img src="https://github.com/RajatJothe/Zomato_Analysis_Python_Project_5/blob/main/Image/boxplot_online_order.png" width="45%" />
+  <img src="https://github.com/RajatJothe/Zomato_Analysis_Python_Project_5/blob/main/Image/heatmap_online_order.png" width="45%" />
+</p>
 
 
 
